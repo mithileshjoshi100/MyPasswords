@@ -1,0 +1,11 @@
+{
+    "name": "MITH_Pass",
+    "version": "1.0.0",
+    "description": "Save yor frequent Passwords",
+    "manifest_version": 3,
+    "author": "Mithilesh Joshi",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Local Password Maneger"
+    }
+}
